@@ -15,7 +15,7 @@ interface I2
 public class Program: I1,I2
 {
     /* when we are implementing interface explicitly, remove access modifier  public
-        
+     // default interface method   
     public void InterfaceMethod()
     {
         Console.WriteLine("I1 interface method");
