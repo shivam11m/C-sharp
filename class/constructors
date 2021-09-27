@@ -19,6 +19,10 @@ namespace Introduction
 
         string fn, ln;
 
+        // CONSTRUCTOR HAVE SAME NAME AS CLASS NAME
+        // IF WE DO NOT CREATE CONSTRUCTOR, A DEFAULT PARAMETER LESS CONSTRUCTOR IS AUTMATICALLY PROVIDED
+        
+
        // a constructor is used to intialize class field and is automatically called whenever we create an instance of a class
 
         // parameter less constructor, and it gets called when we do not provide any input in obj field, the parameter less construtr
